@@ -27,7 +27,6 @@
 Для того, чтобы мы могли проверить ваши результаты, вам необходимо указать свое **Имя** и почту - **argentumproject@yandex.com**
 
 <div align="center">
-    <img src="images/images1.png" alt="images1" width="550" height="500">
-
-
+    <img src="images/images1.png" alt="images1" width="550" height="500">  
+  
 ## 🍀УСПЕХОВ!🍀
