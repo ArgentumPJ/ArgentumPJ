@@ -14,6 +14,7 @@
 ## СПИСОК ТЕСТОВ:
 🔶 **[ОКСИДЫ КЛАССИФИКАЦИЯ](https://argentumpj.github.io/5MOxide/)**  
 🔶 **[ФОРМУЛЫ ОКСИДОВ И СООТВЕТСТВУЮЩИХ ГИДРОКСИДОВ](https://argentumpj.github.io/5MOxide/)**
+🔶 **[СВОЙСТВА ОКСИДОВ](https://argentumpj.github.io/5MSalt/)**
 
 ## ОТПРАВКА РЕЗУЛЬТАТОВ:
 
