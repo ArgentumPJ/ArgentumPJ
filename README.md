@@ -5,15 +5,15 @@
     <br />
     <br />
   <p align="center">
-      
-**ДОБРО ПОЖАЛОВАТЬ В БАНК ЗАКРЫТЫХ КОНТРОЛИРУЮЩИХ ТЕСТОВ!**
-    <br />
+     
+ДОБРО ПОЖАЛОВАТЬ В БАНК ЗАКРЫТЫХ КОНТРОЛИРУЮЩИХ ТЕСТОВ!
+   
   </p>
 </div>
 
 ## СПИСОК ТЕСТОВ:
 🔶 **[ОКСИДЫ КЛАССИФИКАЦИЯ](https://argentumpj.github.io/5MOxide/)**  
-🔶 **[ФОРМУЛЫ ОКСИДОВ И СООТВЕТСТВУЮЩИХ ГИДРОКСИДОВ](https://argentumpj.github.io/5MOxide/)**  
+🔶 **[ФОРМУЛЫ ОКСИДОВ И СООТВЕТСТВУЮЩИХ ГИДРОКСИДОВ](https://argentumpj.github.io/5MHydroxide/)**  
 🔶 **[СВОЙСТВА ОКСИДОВ](https://argentumpj.github.io/5MSalt/)**
 
 ## ОТПРАВКА РЕЗУЛЬТАТОВ:
