@@ -29,6 +29,5 @@
 <div align="center">
     <img src="images/images1.png" alt="images1" width="666" height="500">
 
- <p align="center">
-      
+
 ## 🍀УСПЕХОВ!🍀
