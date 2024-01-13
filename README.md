@@ -1,12 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Logo.png" alt="Logo" width="250" height="290">
   </a>
-  
-  **PROJECT ARGENTUM**
+    <br />
+    <br />
+    <br />
+    <br />
   <p align="center">
-    Добро пожаловать в банк закрытых контролирующих тестов!
+      Добро пожаловать в банк закрытых контролирующих тестов!  
     <br />
   </p>
 </div>
